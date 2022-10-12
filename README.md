@@ -1,6 +1,6 @@
 # Resume
 Projects listed on my Resume
-note: all repositories are also individually available on my github by similar names
+(all repositories are also individually available on my github by similar names)
 
 Acea_Water (individual_codeup_project)
  - Time Series Analysis 
