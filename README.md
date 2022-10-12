@@ -11,7 +11,7 @@ Acea_Water
 Social_Media_Engagement_Forcasting
  - Natural Language Processing (NLP) + Time Series Analysis
  - Visual and Statisitical Analysis
-   - Time Series Models: Last Observed Avg, Moving Avg, Holt's Linear Trend, Autor, gressive Integrated Moving Average, Facebook Prophet
+ - Time Series Models: Last Observed Avg, Moving Avg, Holt's Linear Trend, Autor, gressive Integrated Moving Average, Facebook Prophet
   - NLP models: Frequency, Term Frequency - Inverse Document Frequency 
  
 Clustering
