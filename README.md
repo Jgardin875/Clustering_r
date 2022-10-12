@@ -2,12 +2,17 @@
 Projects listed on my Resume
 
 Acea_Water
- - Time Series analysis 
+ - Time Series Analysis 
  - Phase shifting for forcasting purposes
  - Feature Engineering
  - Statistical Testing
  - Simple Average, Previous cycle, Holt's Linear Trend, GLM, Polynomial Regression, GradientBoostingRegressor
  
+Social_Media_Engagement_Forcasting
+ - Natural Language Processing (NLP) + Time Series Analysis
+ - Visual and Statisitical Analysis
+   - Time Series Models: Last Observed Avg, Moving Avg, Holt's Linear Trend, Autor, gressive Integrated Moving Average, Facebook Prophet
+  - NLP models: Frequency, Term Frequency - Inverse Document Frequency 
  
 Clustering
   - Predicting logerror in Zillow dataset
