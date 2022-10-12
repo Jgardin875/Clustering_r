@@ -1,7 +1,8 @@
 # Resume
 Projects listed on my Resume
+note: all repositories are also individually available on my github by similar names
 
-Acea_Water
+Acea_Water (individual_codeup_project)
  - Time Series Analysis 
  - Phase shifting for forcasting purposes
  - Feature Engineering
@@ -14,15 +15,15 @@ Social_Media_Engagement_Forcasting
  - Time Series Models: Last Observed Avg, Moving Avg, Holt's Linear Trend, Autor, gressive Integrated Moving Average, Facebook Prophet
  - NLP Models: Frequency, Term Frequency - Inverse Document Frequency, GLM, LassoLars, Linear Regression, RandomForestRegressor
  
-Clustering
-  - Predicting logerror in Zillow dataset
+Clustering - Zillow
+  - Predicting logerror
   - Clustering as Feature Enginerring
   - Scaling
   - Statistical Testing
   - Models: Kmeans clustering, GLM, Polynomial Regression, LassoLars, Linear Regression
   
- Regression
-  - Predicting housing prices using Zillow dataset
+ Regression - Zillow
+  - Predicting housing prices
   - Visually representing data
   - Statistical Testing
   - Scaling
